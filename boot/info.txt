@@ -1,0 +1,14 @@
+base address: 0x00000000
+board name: SRPRI18A007
+cmdline: console=null androidboot.hardware=qcom user_debug=31 msm_rtb.filter=0x37 ehci-hcd.park=3 lpm_levels.sleep_disabled=1 sched_enable_hmp=1 sched_enable_power_aware=1 service_locator.enable=1 swiotlb=1 firmware_class.path=/vendor/firmware_mnt/image
+dtb offset: None
+header version: 0
+image type: AOSP
+kernel offset: 0x00008000
+original size: 18575888
+os version: 10.0.0
+page size: 4096
+ramdisk compression: gzip
+ramdisk offset: 0x02000000
+sigtype: None
+tags offset: 0x01e00000
